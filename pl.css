@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    color: darkslategray;
+    background-color: darkseagreen;
+    
+}
+#playBtn {
+    background-color: coral;
+    color: maroon;
+   font-style: italic;
+   width: 100px;
+   height: 30px;
+   border-radius: 100px;
+   border: solid;
+   border-style: inherit;
+}
+#pauseBtn {
+    background-color: coral;
+    color: maroon;
+    font-style: italic;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid;
+    border-style: inherit;
+}  
+#volumeUpBtn {
+    background-color: coral;
+    color: maroon;
+    font-style: italic;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid;
+    border-style: inherit;
+}
+#volumeDownBtn {
+    background-color: coral;
+    color: maroon;
+    font-style: italic;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid;
+    border-style: inherit;
+}
+#skipPlusBtn {
+    background-color: coral;
+    color: maroon;
+    font-style: italic;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid;
+    border-style: inherit;
+}
+#skipMinusBtn {
+    background-color: coral;
+    color: maroon;
+    font-style: italic;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid;
+    border-style: inherit;
+}
